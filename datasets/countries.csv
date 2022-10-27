@@ -1,6 +1,5 @@
 code,name
 AFG,Afghanistan
-ALA,Åland Islands
 ALB,Albania
 DZA,Algeria
 ASM,American Samoa
@@ -25,21 +24,22 @@ BLZ,Belize
 BEN,Benin
 BMU,Bermuda
 BTN,Bhutan
-BOL,Bolivia (Plurinational State of)
-BES,"Bonaire, Sint Eustatius and Saba"
+BOL,"Bolivia, Plurinational State of"
+BOL,Bolivia
 BIH,Bosnia and Herzegovina
 BWA,Botswana
 BVT,Bouvet Island
 BRA,Brazil
 IOT,British Indian Ocean Territory
 BRN,Brunei Darussalam
+BRN,Brunei
 BGR,Bulgaria
 BFA,Burkina Faso
 BDI,Burundi
-CPV,Cabo Verde
 KHM,Cambodia
 CMR,Cameroon
 CAN,Canada
+CPV,Cape Verde
 CYM,Cayman Islands
 CAF,Central African Republic
 TCD,Chad
@@ -49,14 +49,14 @@ CXR,Christmas Island
 CCK,Cocos (Keeling) Islands
 COL,Colombia
 COM,Comoros
-COG,Congo (Republic of the)
-COD,Congo (Democratic Republic of the)
+COG,Congo
+COD,"Congo, the Democratic Republic of the"
 COK,Cook Islands
 CRI,Costa Rica
 CIV,Côte d'Ivoire
+CIV,Ivory Coast
 HRV,Croatia
 CUB,Cuba
-CUW,Curaçao
 CYP,Cyprus
 CZE,Czech Republic
 DNK,Denmark
@@ -96,14 +96,14 @@ GNB,Guinea-Bissau
 GUY,Guyana
 HTI,Haiti
 HMD,Heard Island and McDonald Islands
-VAT,Vatican City State
+VAT,Holy See (Vatican City State)
 HND,Honduras
 HKG,Hong Kong
 HUN,Hungary
 ISL,Iceland
 IND,India
 IDN,Indonesia
-IRN,Iran
+IRN,"Iran, Islamic Republic of"
 IRQ,Iraq
 IRL,Ireland
 IMN,Isle of Man
@@ -116,8 +116,9 @@ JOR,Jordan
 KAZ,Kazakhstan
 KEN,Kenya
 KIR,Kiribati
-PRK,Korea (Democratic People's Republic of)
-KOR,Korea (Republic of)
+PRK,"Korea, Democratic People's Republic of"
+KOR,"Korea, Republic of"
+KOR,South Korea
 KWT,Kuwait
 KGZ,Kyrgyzstan
 LAO,Lao People's Democratic Republic
@@ -125,12 +126,13 @@ LVA,Latvia
 LBN,Lebanon
 LSO,Lesotho
 LBR,Liberia
+LBY,Libyan Arab Jamahiriya
 LBY,Libya
 LIE,Liechtenstein
 LTU,Lithuania
 LUX,Luxembourg
 MAC,Macao
-MKD,Macedonia (the former Yugoslav Republic of)
+MKD,"Macedonia, the former Yugoslav Republic of"
 MDG,Madagascar
 MWI,Malawi
 MYS,Malaysia
@@ -143,8 +145,8 @@ MRT,Mauritania
 MUS,Mauritius
 MYT,Mayotte
 MEX,Mexico
-FSM,Micronesia (Federated States of)
-MDA,Moldova (Republic of)
+FSM,"Micronesia, Federated States of"
+MDA,"Moldova, Republic of"
 MCO,Monaco
 MNG,Mongolia
 MNE,Montenegro
@@ -152,10 +154,12 @@ MSR,Montserrat
 MAR,Morocco
 MOZ,Mozambique
 MMR,Myanmar
+MMR,Burma
 NAM,Namibia
 NRU,Nauru
 NPL,Nepal
 NLD,Netherlands
+ANT,Netherlands Antilles
 NCL,New Caledonia
 NZL,New Zealand
 NIC,Nicaragua
@@ -168,7 +172,7 @@ NOR,Norway
 OMN,Oman
 PAK,Pakistan
 PLW,Palau
-PSE,"Palestine, State of"
+PSE,"Palestinian Territory, Occupied"
 PAN,Panama
 PNG,Papua New Guinea
 PRY,Paraguay
@@ -182,14 +186,15 @@ QAT,Qatar
 REU,Réunion
 ROU,Romania
 RUS,Russian Federation
+RUS,Russia
 RWA,Rwanda
-BLM,Saint Barthélemy
 SHN,"Saint Helena, Ascension and Tristan da Cunha"
 KNA,Saint Kitts and Nevis
 LCA,Saint Lucia
-MAF,Saint Martin (French part)
 SPM,Saint Pierre and Miquelon
 VCT,Saint Vincent and the Grenadines
+VCT,Saint Vincent & the Grenadines
+VCT,St. Vincent and the Grenadines
 WSM,Samoa
 SMR,San Marino
 STP,Sao Tome and Principe
@@ -199,7 +204,6 @@ SRB,Serbia
 SYC,Seychelles
 SLE,Sierra Leone
 SGP,Singapore
-SXM,Sint Maarten (Dutch part)
 SVK,Slovakia
 SVN,Slovenia
 SLB,Solomon Islands
@@ -217,6 +221,7 @@ SWE,Sweden
 CHE,Switzerland
 SYR,Syrian Arab Republic
 TWN,"Taiwan, Province of China"
+TWN,Taiwan
 TJK,Tajikistan
 TZA,"Tanzania, United Republic of"
 THA,Thailand
@@ -233,16 +238,18 @@ TUV,Tuvalu
 UGA,Uganda
 UKR,Ukraine
 ARE,United Arab Emirates
-GBR,United Kingdom of Great Britain and Northern Ireland
+GBR,United Kingdom
+USA,United States
 UMI,United States Minor Outlying Islands
-USA,United States of America
 URY,Uruguay
 UZB,Uzbekistan
 VUT,Vanuatu
-VEN,Venezuela (Bolivarian Republic of)
+VEN,"Venezuela, Bolivarian Republic of"
+VEN,Venezuela
+VNM,Viet Nam
 VNM,Vietnam
-VGB,Virgin Islands (British)
-VIR,Virgin Islands (U.S.)
+VGB,"Virgin Islands, British"
+VIR,"Virgin Islands, U.S."
 WLF,Wallis and Futuna
 ESH,Western Sahara
 YEM,Yemen
